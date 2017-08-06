@@ -1,0 +1,8 @@
+C:\Users\hzepeda\Documents\Demos\Crowe\HelloWorld\BusinessServicesTests\bin\Debug\BusinessServicesTests.dll
+C:\Users\hzepeda\Documents\Demos\Crowe\HelloWorld\BusinessServicesTests\bin\Debug\BusinessServicesTests.pdb
+C:\Users\hzepeda\Documents\Demos\Crowe\HelloWorld\BusinessServicesTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\hzepeda\Documents\Demos\Crowe\HelloWorld\BusinessServicesTests\obj\Debug\BusinessServicesTests.csprojResolveAssemblyReference.cache
+C:\Users\hzepeda\Documents\Demos\Crowe\HelloWorld\BusinessServicesTests\obj\Debug\BusinessServicesTests.dll
+C:\Users\hzepeda\Documents\Demos\Crowe\HelloWorld\BusinessServicesTests\obj\Debug\BusinessServicesTests.pdb
+C:\Users\hzepeda\Documents\Demos\Crowe\HelloWorld\BusinessServicesTests\bin\Debug\BusinessServices.dll
+C:\Users\hzepeda\Documents\Demos\Crowe\HelloWorld\BusinessServicesTests\bin\Debug\BusinessServices.pdb

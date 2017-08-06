@@ -1,6 +1,5 @@
 C:\Users\hzepeda\Documents\Demos\Crowe\HelloWorld\Client\bin\Debug\Client.exe.config
 C:\Users\hzepeda\Documents\Demos\Crowe\HelloWorld\Client\bin\Debug\Client.exe
 C:\Users\hzepeda\Documents\Demos\Crowe\HelloWorld\Client\bin\Debug\Client.pdb
-C:\Users\hzepeda\Documents\Demos\Crowe\HelloWorld\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
 C:\Users\hzepeda\Documents\Demos\Crowe\HelloWorld\Client\obj\Debug\Client.exe
 C:\Users\hzepeda\Documents\Demos\Crowe\HelloWorld\Client\obj\Debug\Client.pdb

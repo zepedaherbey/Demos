@@ -1,0 +1,4 @@
+C:\Users\hzepeda\Documents\Demos\Crowe\HelloWorld\BusinessServices\bin\Debug\BusinessServices.dll
+C:\Users\hzepeda\Documents\Demos\Crowe\HelloWorld\BusinessServices\bin\Debug\BusinessServices.pdb
+C:\Users\hzepeda\Documents\Demos\Crowe\HelloWorld\BusinessServices\obj\Debug\BusinessServices.dll
+C:\Users\hzepeda\Documents\Demos\Crowe\HelloWorld\BusinessServices\obj\Debug\BusinessServices.pdb
