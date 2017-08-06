@@ -1,7 +1,7 @@
 
 Pull code from https://github.com/zepedaherbey/Demos
 Open a console application and type cd Demos\Crowe\HelloWorld\Client\bin\Debug
-Run the application by typeing 
+Run the application by typing : Client and then enter
 
 IMPORTANT
 If the applicaiton is not runnign you might have to change the url in Client.Program.cs.
